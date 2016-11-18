@@ -299,6 +299,8 @@ a, a:active, a:hover, a:visited, a:target {
 #page3 p:nth-child(2){
     -webkit-animation:bounceInLeft 2s 1s  both;
     animation:bounceInLeft 2s  1s both;
+    display: block;
+    border: 0.04px solid #9E9E9E;
 }
 #page3 p:nth-child(3){
     -webkit-animation:bounceInRight 2s  2s  both;
@@ -539,6 +541,7 @@ width: 1.2rem;
 #page5 .bor p:nth-child(7){
     -webkit-animation:fadeInUp 3s both;
     animation:fadeInUp 3s both;
+    font-size: 0.4rem;
 
 }
 #page5 p{
@@ -645,7 +648,7 @@ padding: 1rem 0 0 0;
 
 }
 #page6 .fs  p:nth-child(3){
-    padding: 2rem 0 0 0;
+    padding: 1rem 0 0 0;
     font-size: 0.4rem;
     background: none;
     width: 80%;
