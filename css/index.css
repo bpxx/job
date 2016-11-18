@@ -276,7 +276,7 @@ a, a:active, a:hover, a:visited, a:target {
     margin: 0.5rem auto;
     border-radius:1000rem;
     font-size: 0.4rem;
-
+    background: #030405;
     color: #fff;
     letter-spacing: 0.1rem;
 }
@@ -289,7 +289,7 @@ a, a:active, a:hover, a:visited, a:target {
     margin: 0.5rem auto;
     border-radius:1000rem;
     font-size: 0.4rem;
-
+    background: #030405;
     color: #fff;
     letter-spacing: 0.1rem;
 }
