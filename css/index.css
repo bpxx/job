@@ -265,6 +265,7 @@ a, a:active, a:hover, a:visited, a:target {
        font-size: 0.4rem;
        color: #fff;
        letter-spacing: 0.1rem;
+    background: #030405;
    }
 .slide3 p:nth-child(3){
     text-align: center;
@@ -432,11 +433,12 @@ a, a:active, a:hover, a:visited, a:target {
 }
 .slide5 .bor{
 width: 80%;
-    height: 80%;
+    height: auto;
     border: 0.2rem solid #1ebc96;
-    margin: 0.2rem auto;
+    margin: 0.2rem auto 0;
     background: url("../img/jl4.png") no-repeat center ;
     background-size: 100% 100%;
+    padding: 0.2rem;
 }
 .slide5 .bor p:nth-child(1){
     font-family: 黑体,"Heiti SC helvetice neue";
