@@ -541,8 +541,7 @@ width: 1.2rem;
 #page5 .bor p:nth-child(7){
     -webkit-animation:fadeInUp 3s both;
     animation:fadeInUp 3s both;
-    font-size: 0.4rem;
-
+    font-size: 0.2rem;
 }
 #page5 p{
     opacity: 1;
